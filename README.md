@@ -4,4 +4,4 @@
 
 | Sección | URL |
 |---|---|
-| Mapa | [Mapa municipios.html](https://direcciondeinversionespba.github.io/Mision-China/mapa_general_interactivo_Mision_China.html) |
+| Mapa | [Mapa municipios.html](https://direcciondeinversionespba.github.io/Mision.China/mapa_general_interactivo_Mision_China.html) |
